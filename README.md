@@ -1,2 +1,2 @@
-# demo-gitops-applications
+# demo-gitops-apps
 Demo GitOps Application Src Repo
