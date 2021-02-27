@@ -1,2 +1,2 @@
 # demo-gitops-apps
-Demo GitOps Application Src Repo
+Base Application Deployment YAML files
